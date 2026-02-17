@@ -21,7 +21,7 @@ Touhou Save Data Switcher (th13–th20)
 3. main に切り替え：`ShanghaiAlice` 直下で `thXX_main_prep.bat` を実行します。
 
 ## 補足
-- 初回状態では、`ShanghaiAlice\thxx` が main 扱いです。
+- 初回状態では、`ShanghaiAlice\thXX` が main 扱いです。
 - `stash_sub\thXX` が空のまま sub に切り替えてゲームを起動すると、新規セーブが生成されます。  
   既存 main から分岐したい場合は、`stash_sub\thXX` にコピーしてから切り替えてください。
 
