@@ -23,7 +23,7 @@ Touhou Save Data Switcher (th13–th20)
 ## 補足
 - 既にある`ShanghaiAlice\thXX` が main 扱いです。
 - `stash_sub\thXX` が空のまま sub に切り替えてゲームを起動すると、セーブデータが新たに生成されます。  
-  既存 main から分岐させたい場合は、`stash_sub\thXX` にコピーしてから切り替えてください。
+  既存 main から分岐させたい場合は、`stash_sub\thXX` にコピーしてから実行してください。
 
 ## 注意点
 - 誤上書き防止のため、ゲーム未起動時に実行してください。
