@@ -1,1 +1,1 @@
-# th_savedata_switcher
+# th-save-switcher
