@@ -3,7 +3,7 @@ Touhou Save Switcher (th13–th20)
 
 ## 概要
 - 東方原作（th13からth20までの整数作品）のセーブデータフォルダ（`ShanghaiAlice` 直下の `thXX`）を main/sub の2系統で切り替えるためのバッチです。
-- `thXX_main_prep.bat` / `thXX_sub_prep.bat` を実行すると、`thXX` フォルダを入れ替え、使っていない方を `stash_main` / `stash_sub` に退避させます。
+- `thXX_main_prep.bat` / `thXX_sub_prep.bat` を実行すると、`thXX` フォルダを入れ替え、使わない方を `stash_main` / `stash_sub` に退避させます。
 
 ## 前提
 - Windows
