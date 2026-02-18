@@ -1,4 +1,4 @@
-Touhou Save Data Switcher (th13–th20)
+Touhou Save Switcher (th13–th20)
 ====================================
 
 ## 概要
